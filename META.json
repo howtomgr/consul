@@ -1,0 +1,62 @@
+{
+  "category": "service-discovery",
+  "created_date": "2025-09-15T22:48:57.383778",
+  "default_ports": [
+    80,
+    443,
+    8300,
+    8500
+  ],
+  "dependencies": [],
+  "description": "Consul is a free and open-source service mesh solution providing service discovery, configuration, and segmentation. Developed by HashiCorp, Consul provides a full-featured service mesh and service discovery platform, serving as an open-source alternative to proprietary solutions like AWS Cloud Map or Azure Service Fabric",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/service-discovery/consul",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/service-discovery/consul",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.383803",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "consul",
+  "repository_url": "https://github.com/howtomgr/consul",
+  "spec_version": "2.0",
+  "subcategory": "service-discovery",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "service-discovery",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Consul Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/service-discovery/consul"
+}
